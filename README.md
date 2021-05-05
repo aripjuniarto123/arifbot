@@ -117,3 +117,4 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 * [`Sofyan`](https://github.com/SofyanAMV09)
 * [`Riz`](https://github.com/riznih)# botez
 # arifbot
+# arifbot
